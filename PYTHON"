@@ -1,0 +1,4 @@
+if 6 > 2:
+ print("SIX is greater than two!")  
+if 58 > 2:
+        print("FIFTY EIGHT is greater than two!") 
